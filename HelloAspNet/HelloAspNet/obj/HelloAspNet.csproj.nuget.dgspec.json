@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\asp.net\\ASP.NET Core\\Lesson1\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj": {}
+    "C:\\Sergey\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\asp.net\\ASP.NET Core\\Lesson1\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj": {
+    "C:\\Sergey\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\asp.net\\ASP.NET Core\\Lesson1\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj",
+        "projectUniqueName": "C:\\Sergey\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj",
         "projectName": "HelloAspNet",
-        "projectPath": "D:\\Учеба\\asp.net\\ASP.NET Core\\Lesson1\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj",
-        "packagesPath": "C:\\Users\\joker\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\asp.net\\ASP.NET Core\\Lesson1\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\obj\\",
+        "projectPath": "C:\\Sergey\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\HelloAspNet.csproj",
+        "packagesPath": "C:\\Users\\Student1\\.nuget\\packages\\",
+        "outputPath": "C:\\Sergey\\HelloAspNetCore\\HelloAspNet\\HelloAspNet\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\joker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Student1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
